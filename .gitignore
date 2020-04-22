@@ -1,6 +1,5 @@
-
-out/production/effective-java-3e/chapter7/item42/LambdaTest.class
-
-out/production/effective-java-3e/chapter7/item42/LambdaTest$1.class
-
 .idea/
+
+.out/
+
+*.kotlin_module
